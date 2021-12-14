@@ -3,9 +3,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   46 mins         ██████████████▒░░░░░░░░░░   57.81 % 
-Markdown     14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 % 
-HTML         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 % 
-SCSS         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
