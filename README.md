@@ -1,5 +1,5 @@
 ### Hi there, I'm [Mattis LITOT!](https://github.com/Litot-Mattis) 👋🏽
-<a href="https://www.linkedin.com/in/richard-depierre/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mattis-litot/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Skills 🧑💻
 
