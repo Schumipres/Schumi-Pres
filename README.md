@@ -32,6 +32,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go   20 mins         ████████████████████████░   95.88 % 
+Go   5 mins          █████████████████████▒░░░   85.98 % 
 ```
 <!--END_SECTION:waka-->
