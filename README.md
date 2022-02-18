@@ -32,9 +32,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 32 mins
+Total: 0 secs
 
-Python     22 mins         █████████████████▓░░░░░░░   70.76 % 
-C          9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.24 % 
+
 ```
 <!--END_SECTION:waka-->
