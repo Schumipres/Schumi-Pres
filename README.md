@@ -32,8 +32,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
 
 ```
 <!--END_SECTION:waka-->
