@@ -32,6 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Makefile   19 mins         █████████████░░░░░░░░░░░░   51.97 % 
+C          17 mins         ████████████░░░░░░░░░░░░░   48.03 % 
 ```
 <!--END_SECTION:waka-->
