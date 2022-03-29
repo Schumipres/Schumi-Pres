@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div>
  <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litot-Mattis&show_icons=true&layout=default&theme=algolia" alt="Richard Dépierre's github stats" />
 </div>
 
