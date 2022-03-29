@@ -30,14 +30,8 @@
  <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litot-Mattis&show_icons=true&layout=default&theme=algolia" alt="Richard Dépierre's github stats" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   48 mins         ████████████████░░░░░░░░░   63.67 %
-HTML         22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-XML          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
+<div> 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
