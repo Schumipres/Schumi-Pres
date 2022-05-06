@@ -48,8 +48,6 @@
 ![GithubActions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 
-<a href="https://www.linkedin.com/in/mattis-litot/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 **GitHub Stats**
 
 <a href="https://github.com/Litot-Mattis/Litot-Mattis">
