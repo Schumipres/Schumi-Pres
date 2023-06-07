@@ -17,17 +17,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++)
+![Dart](https://img.shields.io/badge/-DART-000000?style=flat&logo=DART)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
+![Flutter](https://img.shields.io/badge/-FLUTTER-000000?style=flat&logo=FLUTTER)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Material](https://img.shields.io/badge/-Material-000000?style=flat&logo=material-ui)
 
@@ -35,6 +33,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
 
